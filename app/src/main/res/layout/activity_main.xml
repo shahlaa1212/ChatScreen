@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="292dp"
+        android:layout_height="84dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/my_background"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:paddingStart="40dp"
+            android:paddingLeft="40dp"
+            android:paddingTop="15dp"
+            android:paddingEnd="20dp"
+            android:paddingRight="30dp"
+            android:text="Hi Leo.Whats up ??\n l need a new logo for group."
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:src="@drawable/ic_baseline_done_all_24"
+            android:tint="#FFFFFF"
+            android:paddingRight="20dp"
+            android:paddingBottom="5dp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:gravity="center"
+        android:text="22:30"
+        android:textColor="@color/blackColor"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/my_background"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="simple , minimal and beauti.."
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:paddingStart="30dp"
+            android:paddingTop="15dp"
+            android:paddingRight="20dp"
+            android:paddingLeft="10dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="20dp"
+            android:src="@drawable/ic_baseline_done_all_24"
+            android:tint="#FFFFFF"
+            android:paddingBottom="5dp"/>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:gravity="center"
+        android:text="22:31"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/blackColor"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="290dp"
+        android:layout_height="78dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/white_text"
+        android:gravity="center_vertical"
+        android:hint="@string/username"
+        android:paddingStart="40dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingEnd="0dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="10dp"
+        android:text="ok, l`ll start next week.\nsend me documents today."
+        android:textColor="@color/blackColor"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:gravity="center"
+        android:text="22:32"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/blackColor"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/my_background"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:hint="@string/username"
+            android:paddingStart="20dp"
+            android:paddingTop="10dp"
+            android:paddingRight="20dp"
+            android:text="oh,That`s great 😍"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:paddingLeft="20dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:paddingRight="20dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/ic_baseline_done_all_24"
+            android:tint="#FFFFFF" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="22:33"
+        android:textColor="@color/blackColor"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="360dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/vector_asset"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_baseline_emoji_emotions_24" />
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:bottomRightRadius="30dp"
+            android:isScrollContainer="false" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:src="@drawable/ic_baseline_attach_file_24" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/ic_baseline_mic_24" />
+
+
+    </LinearLayout>
+
+    <!--<Button
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:text="@string/submit"
+        android:background="@drawable/my_button"
+        android:layout_margin="@dimen/marginSmall"/>
+        -->
+</LinearLayout>

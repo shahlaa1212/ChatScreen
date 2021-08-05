@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Chat</string>
+    <string name="enter_your_info">Enter Your info</string>
+    <string name="username">username</string>
+    <string name="submit">submit</string>
+    <string name="male">mail</string>
+    <string name="female">female</string>
+</resources>
