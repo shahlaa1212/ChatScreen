@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">My Chat</string>
-    <string name="enter_your_info">ادخل معلوماتك</string>
-    <string name="username">اسم المستخدم</string>
-    <string name="submit">تسجيل</string>
-
-</resources>
