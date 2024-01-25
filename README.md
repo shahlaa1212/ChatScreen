@@ -3,7 +3,7 @@
 </p>
 
 # 📱 MyChat UI
-This project include sample chat App just using XML
+This project include sample chat ui consists of one page just using XML
 ## 📷 Preview
 <table>
   <tr>
